@@ -13,13 +13,13 @@ An innovative IoT-based solution for monitoring and detecting harmful gas emissi
   
 - 📍 Optional GPS tracking of pollution hotspots
 ## 🔧 Components Used
-| Component |              | Description |
-|----------|---------------|-------------|
-| ESP32 |                  | Wi-Fi-enabled microcontroller |
-| MQ-135 / MQ-7 Sensor |   | Gas sensor for detecting pollutants |
-| Relay Module |           | For engine control based on pollution |
-| Buzzer / LED |           | Alerts the rider in case of high pollution |
-| OLED / LCD Display|      | Display gas level readings |
+| Component |               Description |
+|----------|----------------------------|
+| ESP32 |                   Wi-Fi-enabled microcontroller |
+| MQ-135 / MQ-7 Sensor |    Gas sensor for detecting pollutants |
+| Relay Module |            For engine control based on pollution |
+| Buzzer / LED |            Alerts the rider in case of high pollution |
+| OLED / LCD Display|       Display gas level readings |
 ## 📟 Working Principle
 1. Gas sensors continuously measure exhaust emissions.
    
@@ -33,13 +33,13 @@ An innovative IoT-based solution for monitoring and detecting harmful gas emissi
      
    - After a timeout, the relay cuts engine power if the issue persists.
 ## ☁️ IoT Platform Integration
-This system can be integrated with:
+This system is integrated with:
 - **Blynk**: Real-time mobile dashboard and notifications.
   
 - **Thingspeak**: Data visualization and analytics.
   
 - **AWS IoT Core**: Scalable cloud infrastructure with alerts, Lambda functions, and database storage.
-## 📲 Mobile App (Optional)
+## 📲 Mobile App 
 You can create a companion app using:
 
 - **Blynk / MIT App Inventor / Flutter + Firebase**
