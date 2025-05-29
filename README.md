@@ -1,4 +1,4 @@
-# IOT_BASED_AIR_POLLUTION_MONITORING_AND_DETECTION_SYSTEM
+# IOT_BASED_AIR_POLLUTION_MONITORING_AND_    DETECTION_SYSTEM
 An innovative IoT-based solution for monitoring and detecting harmful gas emissions from bike silencers. This system alerts the rider in real-time when pollution levels exceed safe thresholds and can even trigger automatic shutdown of the bike engine if no corrective action is taken.
 ## 🛠️ Features
 - 📡 Real-time monitoring of gas emissions (CO, CO₂, NOx)
